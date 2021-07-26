@@ -57,7 +57,7 @@ body {
     height: 100vh;
 }
 
-.hero-section .row h1, h2, h3, p {
+.hero-section .row h1, h2, h3, h4, p {
     color: white;
 }
 
@@ -182,4 +182,8 @@ canvas.particles-js-canvas-el {
         align-items: center;
     }
 
+}
+.skill-icon {
+    max-width: 100px;
+    max-height: 150px;
 }
