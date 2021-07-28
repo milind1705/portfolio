@@ -15,6 +15,9 @@ body {
 }
 
 /* navbar */
+.nav_section{
+    background-color: var(--background-color) !important;
+}
 .nav_section .navbar-brand {
     font-size: 22px;
     color: white;
@@ -186,4 +189,8 @@ canvas.particles-js-canvas-el {
 .skill-icon {
     max-width: 100px;
     max-height: 150px;
+}
+.social-icon{
+    max-width: 40px;
+    max-height: 40px;
 }
